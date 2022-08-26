@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "logging/1.0.0": {
+        "dependencies": {
+          "NLog": "5.0.2"
+        },
+        "runtime": {
+          "logging.dll": {}
+        }
+      },
+      "NLog/5.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.2.1287"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "logging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/5.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gucQmkaCLsyMV7OFCRwgX1J9gUDSd0ej+AZW113zmNnTtgGAicZSoE8pKPFWL6GYct1jin8i0t5SzNghyW2BWA==",
+      "path": "nlog/5.0.2",
+      "hashPath": "nlog.5.0.2.nupkg.sha512"
+    }
+  }
+}

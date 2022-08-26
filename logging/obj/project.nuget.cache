@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQP1MX9/woQwS2pgxn5xaQ2IPRihwwJnGZhAI3bk8e1hutl77AK1dU7NVM1u/j+eTRzsBXqimfNd3DpdbfZD/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\varad\\source\\repos\\logging\\logging\\logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\varad\\.nuget\\packages\\nlog\\5.0.2\\nlog.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

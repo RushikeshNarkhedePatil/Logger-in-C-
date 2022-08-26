@@ -1,0 +1,17 @@
+C:\Users\varad\source\repos\logging\logging\bin\Debug\netcoreapp3.1\logging.exe
+C:\Users\varad\source\repos\logging\logging\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\varad\source\repos\logging\logging\bin\Debug\netcoreapp3.1\logging.deps.json
+C:\Users\varad\source\repos\logging\logging\bin\Debug\netcoreapp3.1\logging.runtimeconfig.json
+C:\Users\varad\source\repos\logging\logging\bin\Debug\netcoreapp3.1\logging.runtimeconfig.dev.json
+C:\Users\varad\source\repos\logging\logging\bin\Debug\netcoreapp3.1\logging.dll
+C:\Users\varad\source\repos\logging\logging\bin\Debug\netcoreapp3.1\logging.pdb
+C:\Users\varad\source\repos\logging\logging\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.csproj.AssemblyReference.cache
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.AssemblyInfoInputs.cache
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.AssemblyInfo.cs
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.csproj.CoreCompileInputs.cache
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.csproj.CopyComplete
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.dll
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.pdb
+C:\Users\varad\source\repos\logging\logging\obj\Debug\netcoreapp3.1\logging.genruntimeconfig.cache
