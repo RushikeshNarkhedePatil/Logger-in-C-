@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+
+p{
+font-size:20pt;
+text:justify;
+ font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img{
+border:1px Solid gray;
+margin:10px;
+}
+
+
+</style>
+</head>
+<body>
+
+<div>
+<b>
+<h2>ID OD CutFLash</h2>
+</b>
+<br>
+
+<p><li>Inside Edge Defects click on Edge Defects and go to ID OD CutFlash.</li></p>
+<p><li>Select FLash parameter from the list given and enter all input parameter values in property window and click on train button.</li></p>
+
+<img src="Images\Thread2.png" align="centre">
+<p><li>After training, you will get a tolerence property window. Set the values in tolerence property window and click on save button to save the parameter.</li></p>
+<img src="Images\Thread4.png" align="centre">
+<p><li>To Complete the operation click on finish button.</li></p>
+<p><li>Similarly you can select different flash parameters and apply as per requirement.</li></p>
+<br>
+
+
+
+
+
+
+
+</div>

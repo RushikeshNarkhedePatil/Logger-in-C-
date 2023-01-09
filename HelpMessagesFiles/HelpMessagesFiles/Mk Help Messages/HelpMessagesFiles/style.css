@@ -1,0 +1,31 @@
+
+.list{
+font-size:30;
+}
+
+.container {
+
+    top: 30%;
+    left: 30%;
+    font-family:Calibri;
+    font-size:50; 
+  margin: 10px; 
+}
+
+.text1 {
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 8px;
+    margin-bottom: 20px;
+    position: relative;
+    animation: text 3s 1;
+    text-align:center;
+
+}
+
+.container span{
+        color: crimson;
+        text-transform: uppercase;
+        display: block;
+        font-size:50px;
+    }
